@@ -88,8 +88,6 @@ Run the command's which are used to push the image. You can view those command i
 
 Step 3. Once you run all the commands in proper order the DockerImage will be pushed into your ECR and you can view it under the "image" tab
 
-![Latest Image](https://github.com/adilshaikh165/devops-monitoring-cloudApp/assets/98637502/a643ed04-cf71-4a4c-88b8-9e56a395cd84)
-
 Hence uptil now the DockerImage is successfully pushed into you ECR.
 
 

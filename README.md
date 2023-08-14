@@ -10,10 +10,6 @@ As we go through the project, we will discuss the services in detail and point t
 
 ![Aws file](https://github.com/adilshaikh165/devops-monitoring-cloudApp/assets/98637502/a905c359-4657-4fd4-965a-ff4e7ed59c14)
 
-# Blog post for step by step Demonstration!
-
-https://adilshaikh165.hashnode.dev/cloud-native-monitoring-application
-
 ## Prerequisites!
 
 - AWS Account
@@ -31,7 +27,7 @@ https://adilshaikh165.hashnode.dev/cloud-native-monitoring-application
 Step 1. Deploy the Flask App locally by clonning the Repository.
 
 ```bash
-git clone https://github.com/adilshaikh165/devops-monitoring-cloudApp
+git clone https://github.com/fykaa/cloudApp
 ```
 
 Step 2. Install Dependencies.

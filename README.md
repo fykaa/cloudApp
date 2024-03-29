@@ -129,10 +129,6 @@ kubectl get svc -n default
 
 -w : To view in watch mode
 
-You can refer the below snapshot of terminal for verifying your kubectl commands
-
-![image](https://github.com/adilshaikh165/devops-monitoring-cloudApp/assets/98637502/b50d1add-75a9-487e-9cad-28b7385d568e)
-
 Once your pod is up and running, run the port-forward to expose the service using the command 
 
 ```bash

@@ -1,6 +1,6 @@
 # Cloud Native Monitoring Application
 
-# Project Overview And High Level Design
+## Project Overview And High Level Design
 
 Let's start with the High Level Design.
 
